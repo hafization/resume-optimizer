@@ -1,0 +1,26 @@
+SOFTWARE DEVELOPER - PYTHON
+Company: TechCorp Solutions
+Location: Remote
+
+We're looking for a Python Developer to join our growing team.
+
+Requirements:
+- 3+ years of Python programming experience
+- Strong understanding of APIs and REST services
+- Experience with automated testing
+- Knowledge of software development best practices
+- Excellent problem-solving skills
+- Bachelor's degree in Computer Science or related field
+
+Responsibilities:
+- Develop and maintain Python applications
+- Write clean, efficient code
+- Collaborate with team members on projects
+- Participate in code reviews
+- Debug and optimize applications
+
+What we offer:
+- Competitive salary
+- Remote work option
+- Professional development
+- Health insurance

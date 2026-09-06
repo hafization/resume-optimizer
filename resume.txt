@@ -1,0 +1,26 @@
+JOHN DOE
+Email: john@example.com | Phone: (555) 123-4567 | LinkedIn: linkedin.com/in/johndoe
+
+PROFESSIONAL SUMMARY
+Experienced customer service representative with 5 years in hospitality. Strong communication skills and ability to manage multiple tasks.
+
+WORK EXPERIENCE
+Customer Service Representative | ABC Company | 2020-2023
+- Handled customer inquiries and complaints
+- Managed phone and email communications
+- Achieved 95% customer satisfaction rating
+
+Retail Associate | XYZ Store | 2018-2020
+- Provided product recommendations to customers
+- Processed transactions and inventory management
+- Trained new staff members
+
+EDUCATION
+High School Diploma | Central High School | 2018
+
+SKILLS
+- Customer Service
+- Communication
+- Problem Solving
+- Time Management
+- Microsoft Office
